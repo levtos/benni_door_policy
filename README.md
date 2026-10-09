@@ -1,3 +1,5 @@
+![CUSTOS](brand/logos/logo-256.png)
+
 # benni_door_policy
 
 Türschloss-Policy (Aqara Smart Lock U200) als eigenständige HACS-Custom-Integration — L2 im benni_* Home-Assistant-Fleet.
@@ -34,3 +36,8 @@ Kein Python-Cross-Modul-Import — strikt Entity-IDs.
 ```
 ../benni-core-state/.venv/Scripts/python.exe -m pytest tests/door_policy/test_policy.py -q
 ```
+
+
+## Unicorn Station branding
+
+**CUSTOS** is the product brand. See [asset provenance and HA display conventions](brand/README.md). Technical identities and behavior remain unchanged.
