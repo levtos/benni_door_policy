@@ -1,0 +1,38 @@
+{
+  "brand": "CUSTOS",
+  "repository": "levtos/benni_door_policy",
+  "domain": "benni_door_policy",
+  "original_sha256": "5ede26da6bc6b1626944c525b90465ef332a8ed0ba5452234b42e2af29e05d71",
+  "original_size": [
+    1254,
+    1254
+  ],
+  "original_mode": "RGB",
+  "icon_crop_xyxy": [
+    177,
+    0,
+    1077,
+    900
+  ],
+  "resampling": "Pillow LANCZOS",
+  "files": {
+    "brand/icons/icon-128.png": "fd05200f023c8aa4b1fd96ed094192e7afa5a777dfee6d21a449c4e42e2e881a",
+    "brand/icons/icon-256.png": "5c62ab77848b72787b882e3bb28dc7b99e0a1e5388caa931ce796cea6226f5c1",
+    "brand/icons/icon-32.png": "adc7c95f8ef3ed10a6a5cedf41715475667268f6d16b3962d19d3335ee57486a",
+    "brand/icons/icon-512.png": "0bbd8562bdc1a1dfc6df4ac92891d01231d53e145fadd4b633105ba66c849964",
+    "brand/icons/icon-64.png": "19b92368ee9fa508b2bb575bb23d513caa8ca221dfc935b0b6f29792b88a63b7",
+    "brand/logos/logo-1024.png": "633395791da505467893469f4347e700668541837e6c3540d1b0b9bc89ce18e3",
+    "brand/logos/logo-128.png": "6925131e741d342ec1410c88907c65868c8b9f7469739d8ebafd7ff7911b7c67",
+    "brand/logos/logo-256.png": "b9b92b522da46f136c1daf5daac976261f3fd9e9637a2f791e5c56b86664c97a",
+    "brand/logos/logo-512.png": "66c427b2d8e2605a51eb7bd077b12d7c99137389d0bb4c6ede401220cb785b91",
+    "brand/original/CUSTOS.png": "5ede26da6bc6b1626944c525b90465ef332a8ed0ba5452234b42e2af29e05d71",
+    "custom_components/benni_door_policy/brand/dark_icon.png": "5c62ab77848b72787b882e3bb28dc7b99e0a1e5388caa931ce796cea6226f5c1",
+    "custom_components/benni_door_policy/brand/dark_icon@2x.png": "0bbd8562bdc1a1dfc6df4ac92891d01231d53e145fadd4b633105ba66c849964",
+    "custom_components/benni_door_policy/brand/dark_logo.png": "b9b92b522da46f136c1daf5daac976261f3fd9e9637a2f791e5c56b86664c97a",
+    "custom_components/benni_door_policy/brand/dark_logo@2x.png": "66c427b2d8e2605a51eb7bd077b12d7c99137389d0bb4c6ede401220cb785b91",
+    "custom_components/benni_door_policy/brand/icon.png": "5c62ab77848b72787b882e3bb28dc7b99e0a1e5388caa931ce796cea6226f5c1",
+    "custom_components/benni_door_policy/brand/icon@2x.png": "0bbd8562bdc1a1dfc6df4ac92891d01231d53e145fadd4b633105ba66c849964",
+    "custom_components/benni_door_policy/brand/logo.png": "b9b92b522da46f136c1daf5daac976261f3fd9e9637a2f791e5c56b86664c97a",
+    "custom_components/benni_door_policy/brand/logo@2x.png": "66c427b2d8e2605a51eb7bd077b12d7c99137389d0bb4c6ede401220cb785b91"
+  }
+}
